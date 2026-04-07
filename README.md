@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=😎Olá,+Seja+bem-vindo!;😎Meu+nome+é+Junior!;🧑‍💻Sou+fundador+do+projeto+MENTE+MAKER🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=😎Olá,+Seja+bem-vindo!;😎Meu+nome+é+Marcelo!;🧑‍💻Sou+fundador+do+projeto+Bankai🚀)](https://git.io/typing-svg)
 <p align="center">
 
 ### 😎 **Sobre mim**  
@@ -15,9 +15,9 @@ Olá, sou o Marcelo, desenvolvedor apaixonado por tecnologia e inovação. Com u
   </a>
 </p>
 
-![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdHR_M4vqK1rtKo56RMQ9tQ?style=social)
+![YouTube Subscribers]()
 
-![YouTube Views](https://img.shields.io/youtube/channel/views/UCdHR_M4vqK1rtKo56RMQ9tQ?style=social)
+![YouTube Views]()
 
 
 ### 🌐 **Minhas Redes Sociais**  
@@ -27,7 +27,8 @@ Acompanhe-me no YouTube, Instagram e Replit para mais interações e projetos:
   <a href="https://www.youtube.com/@mentemaker/featured">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone YouTube" style="margin: 0 10px;">
   </a>
-  <a href="https://www.instagram.com/p/CwEdLL4te3W/?utm_source=ig_web_button_share_sheet&igshid=MzRlODBiNWFlZA==">
+  <a href="https://www.https://www.instagram.com/jovemarcelo777/
+    utm_source=ig_web_button_share_sheet&igshid=MzRlODBiNWFlZA==">
     <img src="https://img.shields.io/badge/Instagram-F24D65?style=for-the-badge&logo=instagram&logoColor=white" alt="Ícone Instagram" style="margin: 0 10px;">
   </a>
   <a href="https://replit.com/@MenteMaker">
@@ -139,3 +140,82 @@ Siga-me para explorar novos conhecimentos e crescer na área de tecnologia. Junt
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+    "
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+   
+
+
+<picture style="background-color: transparent">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    style="background-color: transparent"
+  />
+</picture><picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+    "
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+   
+
+
+<picture style="background-color: transparent">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    style="background-color: transparent"
+  />
+</picture>
